@@ -1,5 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+Hacker News Clone
+Build a production React project using Redux and Styled Components.
 ## Available Scripts
 
 In the project directory, you can run:
