@@ -23,7 +23,7 @@ class App extends Component {
     render() {
         const { stories, hasMoreStories } = this.props;
         return (
-            <ThemeProvider theme={colorDark}>
+            <ThemeProvider theme={colorLight}>
                 <div>
                     <Wrapper>
                         <Header/>
